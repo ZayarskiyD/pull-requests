@@ -1,1 +1,3 @@
 This file was addeed in the feature2 branch
+
+Another line
